@@ -28,8 +28,8 @@ you're writing a multi line comment
 
 
 # Our first program..... "Hello World"
-#   Since this is only one line of code in this program, let's run this directly in the interpreter
-#   1. From your command line (CMD on Windows, Terminal on Mac) type "python" ex:
+#   Since there is only one line of code in this program, let's run this directly in the interpreter
+#   1. From your command line (CMD on Windows or Terminal on Mac) type "python" ex:
 #       C:\Users\Hanky>python
 #   2. This should open the python interpreter, it will look like this:
 #       Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
@@ -41,4 +41,5 @@ you're writing a multi line comment
 # this is very helpful for showing you what your program is doing as it is executing
 
 
-print("hello world")
+# Homework: Try to run this code using the second method I showed above. (Tell the interpreter you want to run intro.py)
+print("hello world 2: electric bugaloo")
