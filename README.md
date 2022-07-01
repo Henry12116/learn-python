@@ -28,3 +28,4 @@ The curriculum is designed to be consumed in the following order:
 |   10  | flask       |
 |   11  | virtual_envs|
 
+Within each section there if there is an `intro.py` read it first.

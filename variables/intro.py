@@ -1,4 +1,4 @@
-# variables let you store information, the can contain what ever you want
+# variables let you store information, they can contain whatever you want
 
 # for example
 booba = "(.) (.)"
@@ -9,12 +9,18 @@ booba = "(.) (.)"
 # this will print the boobs... nice
 print(booba)
 
-# variables don't have to be equal to strings, they can be what ever you want
+# variables don't have to be equal to strings, again they can be whatever you want
 # lets overwrite booba to be something else
 booba = 1337
 
 # this will print the number 1337
 print(booba)
+
+# you can combine variables together using operators (like a calculator)
+numOne = 1
+
+# this will print 1338
+print(booba + numOne)
 
 
 # you can name a variable what ever you want, however there are some naming rules you must follow
