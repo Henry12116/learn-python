@@ -16,8 +16,8 @@ We will be installing python 3.10.5
 The curriculum is designed to be consumed in the following order:
 |  No.  | Section     |
 | ----- | ----------- |
-|   1   | intro       |
-|   2   | variables   |
+|   1   | [intro](intro/intro.py)       |
+|   2   | [variables](variables/intro.py)   |
 |   3   | conditionals|
 |   4   | loops       |
 |   5   | functions   |

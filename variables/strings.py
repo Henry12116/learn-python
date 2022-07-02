@@ -4,6 +4,15 @@ myString = "hello world"
 # if we check the type, we can see it is indeed a string
 print(type(myString))
 
+
+# you can combine two strings together by adding them
+# ex
+print("first string " + "second string")
+
+# Question: What happens if we try to add a string and an integer together?
+# Try it out yourself in the terminal and see what happens
+
+
 # let's look at all the functions available to us for strings
 # dir() is a built in method that does exactly that
 print(dir(myString))
@@ -22,6 +31,7 @@ print(dir(myString))
 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split',
 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
 """
+# wow look at all those functions
 
 # we can use any of the above functions (aka methods) by doing
 # "my string".function()
@@ -33,8 +43,12 @@ print(myString.upper())
 # ex.
 anotherString = "world"
 
-# you dont have to call this var, you can also name this whatever you want
+# here we are saying print a string called "Hello <something>"
+# we call <something> var and we tell format to set var equal to anotherString
+# when it's all done, it should print "hello world"
 print("hello {var}".format(var=anotherString))
+
+# this is very useful when you need to combine several variables together to make one string
 
 
 
