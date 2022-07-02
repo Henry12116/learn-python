@@ -7,74 +7,64 @@ myEpicInteger = 420
 
 # If we check the type of this variable (epicInteger), we see it's an int
 # type is another built in method (like print) that you can use by default
-type(myEpicInteger)
+# we pass the result of type() into print() so we can see it on the screen
+print(type(myEpicInteger))
 
 # Floats
 # floats are basically fractional numbers (decimals)
 myCoolFloat = 4.2069
 
 # again we can check the type of this variable and we see it's a float
-type(myCoolFloat)
+print(type(myCoolFloat))
 
 # you can use all the basic calculator operations on variables
 # addition
 num1 = 10
 num2 = 20
 result = num1 + num2
-
-# what's going on here?
-print("{n1}+{n2}={r}".format(n1=num1, n2=num2, r=result))
-
-# here i am cwafting a string by formatting it with variables
-# first i create the format I want for my string, for this addition example, I want to show something like: x+y=z so i write:
-" + = "
-# i then inject the variables I want into said string by passing them to format
-"{n1}+{n2}={r}".format(n1=num1, n2=num2, r=result)
-# lastly i pass the result of this to print, so it appears on the screen
-print("{n1}+{n2}={r}".format(n1=num1, n2=num2, r=result))
-
+print(result)
 
 # subtraction
 num1 = 100
 num2 = 50
 result = num1 - num2
-print("{num1}-{num2}={result}".format(num1, num2, result))
+print(result)
 
 # multiplication
 num1 = 2
 num2 = 2
 result = num1 * num2
-print("{num1}*{num2}={result}".format(num1, num2, result))
+print(result)
 
 # floating point division
 num1 = 8
 num2 = 4
 result = num1 / num2
-print("{num1}/{num2}={result}".format(num1, num2, result))
+print(result)
 
 # rounded division
 num1 = 10
 num2 = 3
 result = num1 // num2
-print("{num1}//{num2}={result}".format(num1, num2, result))
+print(result)
 
 #  exponents (ex 2^2)
 num1 = 2
 num2 = 2
 result = num1 ** num2
-print("{num1}**{num2}={result}".format(num1, num2, result))
+print(result)
 
 # modulo (gets the remainder after dividing)
 num1 = 8
 num2 = 2
 result = num1 % num2 # gives 0 because 8 divides evenly into 2
-print("{num1}%{num2}={result}".format(num1, num2, result))
+print(result)
 
 # another example
 num1 = 8
 num1 = 3 
 result = num1 % num2 # gives 1 because 1 remains after dividing 8 by 3
-print("{num1}%{num2}={result}".format(num1, num2, result))
+print(result)
 
 
 # HOMEWORK
