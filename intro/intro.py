@@ -43,3 +43,14 @@ you're writing a multi line comment
 
 # Homework: Try to run this code using the second method I showed above. (Tell the interpreter you want to run intro.py)
 print("hello world 2: electric bugaloo")
+
+# my fancy program
+thing1 = "this is my string"
+thing2 = 420 # this is an important number
+
+# i will now print these important things
+print(thing1)
+print(thing2)
+
+
+
