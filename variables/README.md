@@ -6,4 +6,4 @@ It is advised you learn about variables in the following order:
 |   2   | [numbers](numbers.py)   |
 |   3   | [strings](strings.py)|
 |   4   | [lists](lists.py)       |
-|   5   | [dictionaries](dictionaries.py)   |
+|   5   | [dictionaries](dictionaries.py)  |
