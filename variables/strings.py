@@ -83,3 +83,11 @@ print(len(newString)) # this gives us 12
 # Create a second variable, set it equal to the length of your first variable
 # Print out the following message "The state I live in is <YOUR STATE> and it is <STATE LENGTH> characters long"
 # You should use the .format() method to create the message I want you to print
+
+
+var1 = "Texas"
+print(len(var1))
+
+var2 = 5
+
+print("The state I live in is {x} and it is {y} characters long".format(x=var1, y=var2))
