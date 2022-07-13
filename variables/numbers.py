@@ -87,7 +87,8 @@ z = int(y) # sets z equal to 2
 
 
 age = 22
-var1 = 6.1
+var1 = 6
+
 var2= 1/12
 
 height = (var1 + var2)
