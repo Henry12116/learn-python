@@ -86,7 +86,7 @@ print(len(newString)) # this gives us 12
 
 
 #My hw
-x="Idaho"
+x="your mom"
 y=5
 "i live in {mystate} and it is {statenameL} characters long".format(mystate=x, statenameL=y)
 # result was i live in idaho and it is 5 characters long
