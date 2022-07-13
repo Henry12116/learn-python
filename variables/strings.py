@@ -82,11 +82,11 @@ print(len(newString)) # this gives us 12
 # Create a new variable, set it equal to the state (or providence) that you live in
 # Create a second variable, set it equal to the length of your first variable
 # Print out the following message "The state I live in is <YOUR STATE> and it is <STATE LENGTH> characters long"
-# You should use the .format() method to create the message I want you to print\
+# You should use the .format() method to create the message I want you to print
 
 
 #My hw
-x=Idaho
+x="Idaho"
 y=5
 "i live in {mystate} and it is {statenameL} characters long".format(mystate=x, statenameL=y)
 # result was i live in idaho and it is 5 characters long
