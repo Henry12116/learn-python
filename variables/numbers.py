@@ -86,6 +86,9 @@ z = int(y) # sets z equal to 2
 
 #more hw
 age=19
-height=5.9
-print(age/height)
-#result 3.2203389830508473
+height_in_feet=5
+value1=9/12
+height_in_feet + value1
+number1=5.75
+age/number1
+#result 3.3043478260869565
