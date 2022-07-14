@@ -66,4 +66,4 @@ myFirstDictionary["favorite_food"] = "pasta"
 # the usernames will be they keys of myDatabase, and the value will be another dictionary with the following keys: "name", "age", "city" (make up the values for these)
 # After you insert the users, print out the entire dictionary
 # print out the value of the "age" key for the user "joe789"
-# update the "age" value for the user "jane456" to be 31
+# update the "age" value for the user "jane456" by one year
