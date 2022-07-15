@@ -67,3 +67,12 @@ myFirstDictionary["favorite_food"] = "pasta"
 # After you insert the users, print out the entire dictionary
 # print out the value of the "age" key for the user "joe789"
 # update the "age" value for the user "jane456" by one year
+
+#HW
+mydatabase={}
+john123_info={"age": 603, "name": "johnathan","city": "austin"}
+jane456_info={"age":227,"name":"janathan","city":"newsdale"}
+joe789_info={"age":"older than time","name":'jobe',"city":"athens"}
+mydatabase["john123"]=john123_info
+mydatabase["jane456"]=jane456_info
+mydatabase["joe789"]=joe789_info
