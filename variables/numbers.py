@@ -83,3 +83,12 @@ z = int(y) # sets z equal to 2
 
 # your height should be a float
 # for example if you are 6ft 4in your height would be 6.33ft (To get the fractional part, you divide the inches by 12. e.x. 4/12=0.33)
+
+#more hw
+age=19
+height_in_feet=5
+value1=9/12
+height_in_feet + value1
+number1=5.75
+age/number1
+#result 3.3043478260869565

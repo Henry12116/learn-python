@@ -82,3 +82,12 @@ print(mySecondList[-1])
 # print the 3rd element of the list
 # print the list in reverse order
 # print the list in alphabetical order
+
+#HW
+best_animals=["Monkey","Ape","Lemur"]
+len((best_animals))
+best_animals[-1]
+best_animals[0]
+best_animals[2]
+best_animals.reverse()
+best_animals.sort()
