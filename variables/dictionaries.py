@@ -71,6 +71,7 @@ myFirstDictionary["favorite_food"] = "pasta"
 # print out the value of the "age" key for the user "joe789"
 # update the "age" value for the user "jane456" by one year
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 
 import pprint
@@ -84,5 +85,9 @@ print(myDatabase['joe789'].get('Age'))
 
 myDatabase['jane456'].update({'Age': 12+1})
 print(myDatabase['jane456'].get('Age'))
+
+>>>>>>> Stashed changes
+=======
+
 
 >>>>>>> Stashed changes
