@@ -85,9 +85,3 @@ print(myDatabase['joe789'].get('Age'))
 
 myDatabase['jane456'].update({'Age': 12+1})
 print(myDatabase['jane456'].get('Age'))
-
->>>>>>> Stashed changes
-=======
-
-
->>>>>>> Stashed changes
