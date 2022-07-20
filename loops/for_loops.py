@@ -88,3 +88,7 @@ final_list_of_animals = [animal for animal in all_animals if randint(1, 11) <= 3
 # print the numbers from 1 - 100,000
 # Hardmode: only print the numbers that are multiples of 3
 # Extra hardmode: only use list comprehension
+
+#HW
+x=range(100000)
+[print(number) for number in x if number % 3]
