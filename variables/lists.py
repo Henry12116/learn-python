@@ -82,3 +82,22 @@ print(mySecondList[-1])
 # print the 3rd element of the list
 # print the list in reverse order
 # print the list in alphabetical order
+
+
+myList = [1, "wolf", 2, "frog", 3, "cat"]
+
+print(len(myList))
+
+print(myList[-1])
+
+print(myList[0])
+
+print(myList[2])
+
+myList.reverse()
+
+print(myList)
+
+myList.sort()
+
+print(myList)

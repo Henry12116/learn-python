@@ -67,3 +67,23 @@ myFirstDictionary["favorite_food"] = "pasta"
 # After you insert the users, print out the entire dictionary
 # print out the value of the "age" key for the user "joe789"
 # update the "age" value for the user "jane456" by one year
+
+myDatabase = {}
+
+john123_if = {"name": "john", "age": 24, "city": "Moscow"}
+
+jane456_if = {"name": "jane", "age": 32, "city": "Vegas"}
+
+joe789_if = {"name": "joe", "age": 69, "city": "Bangkok"}
+
+myDatabase["john123_if"] = {"name": "john", "age": 24, "city": "Moscow"}
+
+myDatabase["jane456_if"] = {"name": "jane", "age": 32, "city": "Vegas"}
+
+myDatabase["joe789_if"] =  {"name": "joe", "age": 69, "city": "Bangkok"}
+
+print(myDatabase)
+
+print(joe789_if.get("age"))
+
+print(jane456_if.update({"age": 33}))
