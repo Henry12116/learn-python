@@ -97,9 +97,7 @@ else:
 #HW
 from random import randint
 x=randint(1,100)
-if x==x%2:
+if x%2==0:
     print("x is even")
 else:
     print("x is not even")
-
-# x is never even I know not why
