@@ -93,3 +93,12 @@ else:
 # set a variable equal to my_random_number = randint(1, 100)
 # using conditionals, print "the number is even" if my_random_number is even
 # or print "the number is odd" if my_random_number is odd (raging clue in variables/numbers.py)
+
+#HW
+from random import randint
+x=randint(1,100)
+if x==x%2:
+    print("x is even")
+else:
+    print("x is not even")
+
