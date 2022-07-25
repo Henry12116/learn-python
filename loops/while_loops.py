@@ -1,21 +1,22 @@
 # while loops continue to execute until a condition is False
-# NOTE: You can press ctrl+c to stop the program (if you make an infinite loop)
+# NOTE: You can press ctrl+c in the terminal to stop the program (if you make an infinite loop)
 
 # if we want this to loop 10 times (think of current_index as where we currently are in the loop)
 # for example:
 current_index = 0
-while current_index < 10: # while current_index is less than 10
-    print("current_index is: ", current_index) # print the current_index
+while current_index < 10:  # while current_index is less than 10
+    print("current_index is: ", current_index)  # print the current_index
     current_index += 1  # this is the same as saying current_index = current_index + 1
 
 
 # you can also use while loops to iterate over a list
 # for example:
 from random import randint
+
 random_numbers = [randint(1, 10000) for i in range(100)]
 current_index = 0
 while current_index < len(random_numbers):
-    print("current_index is: ", current_index)
+    print("current number in list is: ", random_numbers[current_index])
     current_index += 1  # this is the same as saying current_index = current_index + 1
 
 
@@ -28,7 +29,7 @@ while True:
     i += 1
     if i == 42:
         print("just kidding, that could freeze your computer")
-        break # you can use break to stop the loop
+        break  # you can use break to stop the loop
 
 
 # ight let's have some fun with while loops
