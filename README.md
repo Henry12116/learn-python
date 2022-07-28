@@ -20,7 +20,7 @@ The curriculum is designed to be consumed in the following order:
 |   2   | [variables](variables/intro.py)   |
 |   3   | [conditionals](conditionals/conditionals.py) |
 |   4   | [loops](loops/for_loops.py)       |
-|   5   | functions   |
+|   5   | [functions](functions/functions.py)   |
 |   6   | classes     |
 |   7   | modules     |
 |   8   | exceptions  |
