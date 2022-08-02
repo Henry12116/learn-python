@@ -82,3 +82,12 @@ print(mySecondList[-1])
 # print the 3rd element of the list
 # print the list in reverse order
 # print the list in alphabetical order
+
+favAnimals = ['dolphins', 'dogs', 'cats', 'birds', 'turtles']
+print(len(favAnimals))
+print(favAnimals[-1])
+print(favAnimals[0])
+print(favAnimals[2])
+print(favAnimals.reverse())
+print(favAnimals.sort())
+

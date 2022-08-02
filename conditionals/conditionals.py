@@ -37,6 +37,8 @@ else:
 print(bool(0))
 print(bool(1))
 
+############ask harold to explain truthy and falsy more
+
 # strings have a truthy value
 print(bool(""))
 
@@ -93,3 +95,14 @@ else:
 # set a variable equal to my_random_number = randint(1, 100)
 # using conditionals, print "the number is even" if my_random_number is even
 # or print "the number is odd" if my_random_number is odd (raging clue in variables/numbers.py)
+
+import random
+my_random_bumber = random.randint(1,100)
+
+if my_random_bumber % 2 == 0:
+    print ('The bumber is even.')
+elif my_random_bumber %2 != 0:
+    print('The bumber is odd.')
+
+print(my_random_bumber)
+

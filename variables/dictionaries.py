@@ -1,4 +1,7 @@
 # dictionaries also let you store a bunch of data in a single variable
+from re import M
+
+
 myFirstDictionary = {"name": "John", "age": 30, "city": "New York"}
 
 # The difference between lists and dictionaries is how they are accessed
@@ -67,3 +70,18 @@ myFirstDictionary["favorite_food"] = "pasta"
 # After you insert the users, print out the entire dictionary
 # print out the value of the "age" key for the user "joe789"
 # update the "age" value for the user "jane456" by one year
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+
+import pprint
+myDatabase={}
+myDatabase['john123'] = {'name': 'Bingo', 'Age': 84, 'City': 'Newfoundland'}
+myDatabase['jane456'] = {'name': 'Bongus', 'Age': 12, 'City': 'Right Here'}
+myDatabase['joe789'] = {'name': 'Bango', 'Age': 9001, 'City': 'Dinkelberg'}
+pprint.pprint(myDatabase)
+
+print(myDatabase['joe789'].get('Age'))
+
+myDatabase['jane456'].update({'Age': 12+1})
+print(myDatabase['jane456'].get('Age'))
