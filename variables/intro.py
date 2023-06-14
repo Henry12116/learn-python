@@ -1,26 +1,26 @@
 # variables let you store information, they can contain whatever you want
 
 # for example
-booba = "(.) (.)"
+hello_world = "Hello World!"
 
-# in this case, we have created a variable called booba, and we have set it equal to a string that looks like some boobs
+# in this case, we have created a variable hello_world, and we have set it equal to the string "Hello World!"
 # we can access this variable in other parts of our program... let's try it out
 
-# this will print the boobs... nice
-print(booba)
+# this will print "Hello World!"
+print(hello_world)
 
 # variables don't have to be equal to strings, again they can be whatever you want
-# lets overwrite booba to be something else
-booba = 1337
+# lets overwrite hello_world to be something else
+hello_world = 1337
 
 # this will print the number 1337
-print(booba)
+print(hello_world)
 
 # you can combine variables together using operators (like a calculator)
 numOne = 1
 
 # this will print 1338
-print(booba + numOne)
+print(hello_world + numOne)
 
 
 # you can name a variable what ever you want, however there are some naming rules you must follow

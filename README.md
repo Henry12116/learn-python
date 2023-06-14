@@ -21,8 +21,8 @@ The curriculum is designed to be consumed in the following order:
 |   3   | [conditionals](conditionals/conditionals.py) |
 |   4   | [loops](loops/for_loops.py)       |
 |   5   | [functions](functions/functions.py)   |
-|   6   | classes     |
-|   7   | modules     |
+|   6   | [classes](classes/classes.py)     |
+|   7   | modules_and_packages     |
 |   8   | exceptions  |
 |   9   | input_and_output|
 |   10  | flask       |
