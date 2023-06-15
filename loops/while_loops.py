@@ -62,3 +62,10 @@ while True:
 # this can be very useful for finding the position of a specific element on the screen
 # maybe you want to find the position of a button on a page
 # you can start this loop, hover over the button, then stop the program once it's recorded it's position
+
+# Homework
+# Using a while loop and pyautogui, make the mouse infinitely move in a box shape
+# the box can be any size you want, but the mouse should move as follows:
+# top left -> top right -> bottom right -> bottom left -> (repeat)
+
+# Again you can use ctrl+c to stop the program.

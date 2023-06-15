@@ -1,0 +1,8 @@
+This is some sample text! It's not very interesting, but it will teach us how to read and write data to a file which I think is pretty neat.
+
+
+This is another line.
+
+
+
+So is this.

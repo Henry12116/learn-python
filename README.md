@@ -22,10 +22,9 @@ The curriculum is designed to be consumed in the following order:
 |   4   | [loops](loops/for_loops.py)       |
 |   5   | [functions](functions/functions.py)   |
 |   6   | [classes](classes/classes.py)     |
-|   7   | modules_and_packages     |
-|   8   | exceptions  |
-|   9   | input_and_output|
-|   10  | flask       |
-|   11  | virtual_envs|
+|   7   | [modules_and_packages](modules_and_packages/intro.py)     |
+|   8   | [exceptions](exceptions/exceptions.py)  |
+|   9   | [input_and_output](input_and_output/io.py)|
+|   10  | [virtual_envs](virtual_envs/virtual_envs.py)       |
 
 Within each section, if there is an `intro.py` read it first.

@@ -27,3 +27,10 @@ def greeting(name=None):
         return
 
     print(f"hello {name}")
+
+
+# Homework
+# Create a function (my_sum) that takes in a list of numbers and returns the sum of all the numbers in the list
+# Create a function (my_avg) that takes in a list of numbers and returns the average of all the numbers in the list
+# Create a function (my_max) that takes in a list of numbers and returns the largest number in the list
+# Create a function (my_min) that takes in a list of numbers and returns the smallest number in the list
