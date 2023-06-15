@@ -232,6 +232,3 @@ class School:
 #   1. visit_attraction() - picks a random animal, then calls a random method that animal has showing the animals status
 
 # When making an instance of your zoo, you should pass in at least 100 random animals
-
-
-# uh oh changes
