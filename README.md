@@ -22,8 +22,8 @@ The curriculum is designed to be consumed in the following order:
 |   4   | [loops](loops/for_loops.py)       |
 |   5   | [functions](functions/functions.py)   |
 |   6   | [classes](classes/classes.py)     |
-|   7   | [modules_and_packages](modules_and_packages/intro.py)     |
-|   8   | [exceptions](exceptions/exceptions.py)  |
+|   7   | [exceptions](exceptions/exceptions.py)  |
+|   8   | [modules_and_packages](modules_and_packages/intro.py)     |
 |   9   | [input_and_output](input_and_output/io.py)|
 |   10  | [virtual_envs](virtual_envs/virtual_envs.py)       |
 

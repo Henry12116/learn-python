@@ -53,6 +53,8 @@ except MyCustomException:
 # Custom exceptions are useful when you want to handle a specific error in a specific way
 
 
-
-
+# Homework
+# Create a Person class with the following attributes: name, age
+# Create a custom exception called InvalidAgeError
+# When creating a person, if the age is less than 0 or greater than 120, raise an InvalidAgeError
 
