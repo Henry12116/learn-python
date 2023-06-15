@@ -1,7 +1,7 @@
-# Good evening 🧛
-Welcome to my Python curriculum. In this course you will learn the forbidden jutsu that is Python programming.
+# Howdy 🤠
+Welcome to my Python course. This curriculum will teach you the basics of Python.
 
-Additionally we will be learning how to use Github as we go along.
+Additionally we will be learning how to use the terminal/command prompt and Github as we go along.
 
 # Setup
 We will be installing python 3.10.5
